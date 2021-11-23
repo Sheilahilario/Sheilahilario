@@ -1,6 +1,6 @@
 ### Oii! Sou Sheila Hilario
 
-Mamãe da Isa, estudante de desenvolvimento que ama aplicar conhecimento para resolver problemas e ama cozinhar umas comidinhas.
+Sou uma estudante de desenvolvimento e mãe que ama aplicar conhecimento para resolver "n" problemas e ama cozinhar umas comidinhas.
  Participante ativa de meetups, bootcamps e workshops 💻☕️
 
 
