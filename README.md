@@ -1,6 +1,6 @@
 ### Oii! Sou Sheila Hilario
 
-Uma estudante de back end que ama aplicar conhecimento para resolver problemas e ama cozinhar umas comidinhas.
+Mamãe da Isa, estudante de desenvolvimento que ama aplicar conhecimento para resolver problemas e ama cozinhar umas comidinhas.
  Participante ativa de meetups, bootcamps e workshops 💻☕️
 
 
