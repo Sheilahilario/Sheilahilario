@@ -1,7 +1,8 @@
 ### Oii! Sou Sheila Hilario
 
-Sou uma estudante de desenvolvimento e mãe que ama aplicar conhecimento para resolver "n" problemas e ama cozinhar umas comidinhas.
+Estudante de ADS e Libras. Amo praia, cozinhar e não vivo sem pizza 🍕!
  Participante ativa de meetups, bootcamps e workshops 💻☕️
+ 
 
 
 <p align="space-between"> <br>
