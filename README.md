@@ -28,8 +28,8 @@ Estudante de ADS e Libras. Amo praia, cozinhar e não vivo sem pizza 🍕!
   
  Gostaria de me encontrar? Follow me  ;)
 <div>
-  <a href="https://www.linkedin.com/in/sheila-hilario" target="_blank"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://www.instagram.com/sheila_oh/?hl=pt-br" target="_blank"><img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"><https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white ></a>
+  <a href="https://www.linkedin.com/in/sheila-hilario" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.instagram.com/sheila_oh/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"><https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white ></a>
   
   </div>
 
