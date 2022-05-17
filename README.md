@@ -15,10 +15,7 @@ Estudante de ADS e Libras. Amo praia, cozinhar e não vivo sem pizza 🍕!
 ##
     
 <div>
- <img align="center" alt="Sheila-kotlin" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg"/>
- <img align="center" alt="Sheila-HTML" height="30" width="80" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
- <img align="center" alt="Sheila-CSS" height="30" width="80" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
- <img align="center" alt="Sheila-JS" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+ <img align="center" alt="Sheila-kotlin" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg"/><img align="center" alt="Sheila-HTML" height="30" width="80" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/><img align="center" alt="Sheila-CSS" height="30" width="80" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/><img align="center" alt="Sheila-JS" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
  </div>
  
  
