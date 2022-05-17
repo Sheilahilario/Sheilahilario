@@ -1,7 +1,8 @@
 ### Oii! Sou Sheila Hilario
 
-Apaixonada por desenvolvimento mobile e pizza!🍕 
-</n>Participante ativa de meetups, bootcamps e workshops 💻☕️
+<p Apaixonada por desenvolvimento mobile e pizza!🍕>
+Participante ativa de meetups, bootcamps e workshops 💻☕️
+</p>  
  
 
 
