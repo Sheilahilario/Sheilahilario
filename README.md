@@ -1,7 +1,7 @@
 ### Oii! Sou Sheila Hilario
 
-Estudante de ADS e Libras. Amo praia, cozinhar e não vivo sem pizza 🍕!
- Participante ativa de meetups, bootcamps e workshops 💻☕️
+Apaixonada por desenvolvimento mobile e pizza 🍕!
+Participante ativa de meetups, bootcamps e workshops 💻☕️
  
 
 
