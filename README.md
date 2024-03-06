@@ -5,8 +5,6 @@
 
 - 🔥 I`m Mobile Developer 
 
-- 🔭 I’m currently working at [DASA](https://dasa.com.br/)
-
 - 💬 Ask me about **women in tech**
 
 
