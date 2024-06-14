@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FDF5E6&size=35&center=false&&width=1000&lines=I'm+a+systems+analysis+student;I'm+based+in+São+Paulo;Fun+fact:+I+love+play+piano;Welcome!+:%29)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 I`m Mobile Developer 
+- 🔥 I`m Developer 
 
 - 💬 Ask me about **women in tech**
 
